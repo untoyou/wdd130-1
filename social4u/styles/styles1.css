@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Rock+Salt&display=swap');
+#content{
+    max-width: 500px;
+    margin: 0 auto; }
+img{
+    float: left;
+    width: 150px;
+    background-color: white;
+    margin-bottom: 100px;
+    font-size: 150%;
+    border-radius: 50%;
+}
+
+nav a { 
+text-align: center;
+background-color:none;
+margin-left: 250px;
+margin-top: 250px;
+text-decoration: wavy;
+color: rgb(red, green, blue);
+width: 80px;
+height: 100px;
+
+}
+#helps-img { 
+    width: 400px;
+    float: left;
+}
+#social-img {
+    width: 400px;
+    float: right;
+}
+
+#social-msg {
+    float: left;
+    margin-top: 200px;
+   
+}
+
+#social-msg h1, #social-msg h4{
+    text-align: left;
+}
+body{
+    background-color:aliceblue;
+}
+footer{
+    background-color: rgb
+    (187, 204, 171) ;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+footer .social img {
+    padding-top: 15px;
+    width: 50px;
+    grid-row: 50px;
+}
+.book, .join{ 
+    background-color: rgb(44, 51, 4);
+    color: rgb(red, rgb(161, 188, 161), blue);
+    /*font-family: Rock Salts, Helvetica, sans-serif;*/
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.msg p{
+    color: rgb(25, 20, 20);
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2em;
+    margin-top: 100px;
+}
+.msg p, h2{
+    text-align:left;
+  margin-top: 95px;
+  
+}
+header{
+    background-color:  rgba(225, 232, 220, 0.7);
+    display: grid;
+    grid-template-columns: 10px auto;
+height: 150px;
+
+
+}
+nav a:hover{
+    background-color: rgb(245, 236, 236);
+    color: #e2760a;
+    padding: 35px;
+}
+.book:hover, .join:hover{
+    color: rgb(243, 181,106);
+    background-color:rgb(7, 6,6);
+    font-family:  Arial, Helvetica, sans-serif;
+}
+.home-title{
+    color: rgb(249, 222, 179); 
+    font-family: 'Rock salt', Helvetica, sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+footer p{
+    font-size: 1.2em; 
+
+}
+.h2{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+footer{
+    background-color: rgba(204, 215, 195, 0.7);
+    height: 100px;
+}
