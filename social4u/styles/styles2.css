@@ -21,6 +21,35 @@ width: 80px;
 height: 100px;
 
 }
+.welfare-img{
+    text-align: center;
+    width: 100px;
+    height: 100px;
+  
+  margin-top: 20px;
+}
+h1{
+    text-align:center;
+    font-size: 30px;
+    
+}
+p{ text-align:center;
+    margin-left: 50px;
+    font-size: 20px;
+    color: rgb(red, green, blue);
+    border-color: #e2760a;
+}
+h5{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.act-img{
+    width: 100px;
+    height: 100px;
+    float: right;
+
+}
 .helps-img { 
     width: 200px;
     float: left;
@@ -121,7 +150,7 @@ footer p{
 }
 footer{
     background-color: rgba(204, 215, 195, 0.7);
-    height: 150px;
+    height: 100px;
 }
 
   
