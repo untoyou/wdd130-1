@@ -23,8 +23,8 @@ height: 100px;
 }
 .welfare-img{
     text-align: center;
-    width: 100px;
-    height: 100px;
+    width: 220px;
+    height: 220px;
   
   margin-top: 20px;
 }
@@ -45,8 +45,8 @@ h5{
     margin-left: 20px;
 }
 .act-img{
-    width: 100px;
-    height: 100px;
+    width: 220px;
+    height: 220px;
     float: right;
 
 }
@@ -81,7 +81,7 @@ body {
 footer{
     background-color: rgb
     (187, 204, 171) ;
-    padding: 25px 50px;
+    padding: 45px 120px;
     margin-top: 200px;
     display: flex;
     justify-content: space-around;
